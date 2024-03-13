@@ -1,4 +1,4 @@
-      
+    
 #                      -act 1- 
 # s = "ffgabnnkmm"
 # s = "farrabennlakot"
